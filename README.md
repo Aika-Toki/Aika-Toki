@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aika-Toki&layout=compact&hide=Python,QML&theme=highcontrast)](https://github.com/Aika-Toki)
 
 <!--
 **Aika-Toki/Aika-Toki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
