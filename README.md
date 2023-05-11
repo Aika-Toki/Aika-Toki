@@ -1,6 +1,6 @@
 # Me
-[![GitHub followers](https://img.shields.io/github/followers/Aika-Toki?color=333&logo=github&style=for-the-badge)](https://github.com/Aika-Toki)
-[![GitHub User's stars](https://img.shields.io/github/stars/aika-toki?affiliations=OWNER&color=333&logo=github&logoColor=fafafa&style=for-the-badge)]()
+[![GitHub followers](https://img.shields.io/github/followers/Aika-Toki?color=333&logo=github&style=for-the-badge)](#)
+[![GitHub User's stars](https://img.shields.io/github/stars/aika-toki?affiliations=OWNER&color=333&logo=github&logoColor=fafafa&style=for-the-badge)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aika-Toki&layout=compact&hide=Python,QML&theme=highcontrast)](https://github.com/Aika-Toki)
 
