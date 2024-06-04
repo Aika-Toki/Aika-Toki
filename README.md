@@ -1,9 +1,11 @@
-# Me
 [![GitHub followers](https://img.shields.io/github/followers/Aika-Toki?color=333&logo=github&style=for-the-badge)](#)
 [![GitHub User's stars](https://img.shields.io/github/stars/aika-toki?affiliations=OWNER&color=333&logo=github&logoColor=fafafa&style=for-the-badge)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aika-Toki&layout=compact&hide=Python,QML&theme=highcontrast)](https://github.com/Aika-Toki)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aika-Toki&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aika-Toki&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aika-Toki&theme=transparent&utcOffset=+9)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aika-Toki&theme=gitdimmed&no-bg=true&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Aika-Toki/Aika-Toki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
