@@ -6,6 +6,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aika-Toki&theme=transparent&utcOffset=+9)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aika-Toki&theme=gitdimmed&no-bg=true&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,html,css,sass,bootstrap,tailwind,tauri,unity,discordjs,md,cpp,cs,lua,gas,bash,zsh,mongodb,github)](https://skillicons.dev)
 <!--
 **Aika-Toki/Aika-Toki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
